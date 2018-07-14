@@ -1,0 +1,2 @@
+defmodule Cheetah do
+end
